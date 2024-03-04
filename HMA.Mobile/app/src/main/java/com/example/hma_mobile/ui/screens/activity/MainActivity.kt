@@ -1,4 +1,4 @@
-package com.example.hma_mobile
+package com.example.hma_mobile.ui.screens.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
