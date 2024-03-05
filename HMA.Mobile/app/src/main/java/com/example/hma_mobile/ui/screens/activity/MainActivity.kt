@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
 
 
 
-@Preview(showBackground = true)
+@Preview(showBackground = false)
 @Composable
 fun GreetingPreview() {
     HmamobileTheme {
