@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         }
         setContent {
             HmamobileTheme {
-                //MainScreen()
+                MainScreen()
             }
         }
     }
