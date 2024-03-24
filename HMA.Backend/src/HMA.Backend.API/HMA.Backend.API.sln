@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HMA.Backend.API", "HMA.Back
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HMA.Backend.Core", "..\HMA.Backend.Core\HMA.Backend.Core.csproj", "{CCBF6ECE-94A5-4AD5-A42C-79218CFA84CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMA.Backend.Infrastructure", "..\HMA.Backend.Infrastructure\HMA.Backend.Infrastructure.csproj", "{4961C926-F65B-4DE4-AC3E-D1A5570E6995}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{CCBF6ECE-94A5-4AD5-A42C-79218CFA84CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCBF6ECE-94A5-4AD5-A42C-79218CFA84CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCBF6ECE-94A5-4AD5-A42C-79218CFA84CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4961C926-F65B-4DE4-AC3E-D1A5570E6995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4961C926-F65B-4DE4-AC3E-D1A5570E6995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4961C926-F65B-4DE4-AC3E-D1A5570E6995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4961C926-F65B-4DE4-AC3E-D1A5570E6995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{70C781F7-DD23-4132-B088-B4835EAB2FB5} = {9F8914FF-2EDD-479E-B155-AF4AE96B4F3A}
 		{CCBF6ECE-94A5-4AD5-A42C-79218CFA84CA} = {9F8914FF-2EDD-479E-B155-AF4AE96B4F3A}
+		{4961C926-F65B-4DE4-AC3E-D1A5570E6995} = {9F8914FF-2EDD-479E-B155-AF4AE96B4F3A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E79D5B88-421B-4B39-8FA1-D3BD2CD418B0}
